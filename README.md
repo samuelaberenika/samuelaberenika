@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! <br/><a>Programmer, Software Engineer</a> 
+<h1>Hi 👋, I'm Sam<br/><a>Programmer, Software Engineer</a> 
 
 <h2>👨‍💻 Website Development Projects:</h2>
 
@@ -16,9 +16,6 @@
 - []
 - []
 - []
-
-<h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">A Programmer, Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
