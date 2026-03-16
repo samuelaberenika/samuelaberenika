@@ -12,7 +12,7 @@
 
 <h2> 💻 Mini Projects</h2>
 
-- []
+- [Blogsta](https://github.com/samuelaberenika/blogsta)]
 - []
 - []
 - []
