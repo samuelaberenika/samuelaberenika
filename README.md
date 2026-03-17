@@ -1,28 +1,62 @@
-<h1>Hi 👋, I'm Sam<br/><a></a> 
+<!-- Replace YOUR_USERNAME below with: samuelaberenika -->
 
-<h2>👨‍💻 Website Development Projects:</h2>
+<h1>Hey, I'm Sam 👋</h1>
 
-  - [MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)
+I build things for the web, automate stuff I find annoying, and I'm slowly making my way into the world of cybersecurity. Still figuring it all out — but that's kind of the point.
 
+```python
+sam = {
+    "currently":  ["Web dev", "GitHub Actions", "Learning cybersec"],
+    "languages":  ["Python", "JavaScript", "HTML/CSS", "Java"],
+    "ask me about": ["podcast RSS feeds", "GitHub Actions", "why YAML is underrated"],
+}
+```
 
-<h2> 📄 Certifications </h2>
+---
+
+### 🛠️ Projects
+
+**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates a podcast RSS feed from a YAML file. Built it because hand-editing XML got old very fast.
+
+**[Blogsta](https://github.com/samuelaberenika/blogsta)** — The original single-repo podcast setup that Blogsta-Cloner grew out of.
+
+**[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** — Web development project.
+
+---
+
+### 🧰 Tools & Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+</p>
+
+---
+
+### 📊 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelaberenika&show_icons=true&theme=tokyonight&hide_border=true" alt="Sam's GitHub stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelaberenika&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 📜 Certifications
 
 - [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
+---
 
-<h2> 💻 Mini Projects</h2>
+### 🤝 Connect
 
-- [Blogsta](https://github.com/samuelaberenika/blogsta)
-- []
-- []
-- []
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samuelaberenika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelaberenika" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+<a href="https://linkedin.com/in/samuelaberenika" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+</a>
