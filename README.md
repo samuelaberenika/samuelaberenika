@@ -5,7 +5,7 @@ I build things for the web, automate stuff I find annoying, cybersecurity-curiou
 ```python
 sam = {
     "currently":  ["Building PhishProof", "Freelance IT consulting", "Studying for ISC2 CC"],
-    "languages":  ["Python", "JavaScript", Java", "HTML/CSS"],
+    "languages":  ["Python", "JavaScript", "Java", "HTML/CSS"],
     "tools":      ["Git", "Figma", "FlutterFlow", "Adobe Creative Suite"],
     "cybersec":   ["ISC2 CC (in progress)", "TryHackMe SEC0 & SEC1"],
     "looking for": ["internships", "open-source collabs", "cybersecurity projects"],
