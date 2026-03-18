@@ -66,5 +66,4 @@ sam = {
 <a href="https://linkedin.com/in/samuelaberenika" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
 </a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="samuelaberenika" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/samuelaberenika?trk=profile-badge">Samuel A.</a></div>
               
