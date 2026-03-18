@@ -22,7 +22,7 @@ sam = {
 
 **[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** — Web development project.
 
-**[PhishProof] - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance — all data stored locally with no external transmission.
+**[PhishProof]** - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance — all data stored locally with no external transmission.
 
 ---
 
