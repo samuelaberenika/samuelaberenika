@@ -51,7 +51,8 @@ sam = {
 
 ### 📜 Certifications
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional]
+- [Career Essentials in GitHub Professional Certificate]
 
 ---
 
