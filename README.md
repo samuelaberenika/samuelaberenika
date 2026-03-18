@@ -1,14 +1,14 @@
-<!-- Replace YOUR_USERNAME below with: samuelaberenika -->
-
 <h1>Hey, I'm Sam 👋</h1>
 
-I build things for the web, automate stuff I find annoying, and I'm slowly making my way into the world of cybersecurity. Still figuring it all out — but that's kind of the point.
+I build things for the web, automate stuff I find annoying, cybersecurity-curious, and probably building things that should've existed already. Still figuring it all out but that's the point :)
 
 ```python
 sam = {
-    "currently":  ["Web dev", "GitHub Actions", "Learning cybersec"],
+    "currently":  ["Building PhishProof", "Freelance IT consulting", "Studying for ISC2 CC"],
     "languages":  ["Python", "JavaScript", "HTML/CSS", "Java"],
-    "ask me about": ["podcast RSS feeds", "GitHub Actions", "why YAML is underrated"],
+    "tools":      ["Git", "Figma", "FlutterFlow", "Adobe Creative Suite"],
+    "cybersec":   ["ISC2 CC (in progress)", "TryHackMe SEC0 & SEC1"],
+    "looking for": ["internships", "open-source collabs", "cybersecurity projects"],
 }
 ```
 
@@ -16,11 +16,13 @@ sam = {
 
 ### 🛠️ Projects
 
-**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML got frustrating.
+**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML got super annoying.
 
 **[Blogsta](https://github.com/samuelaberenika/blogsta)** — A side podcast repo setup in which Blogsta-Cloner grew out of.
 
 **[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** — Web development project.
+
+**[PhishProof] - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance — all data stored locally with no external transmission.
 
 ---
 
@@ -33,6 +35,9 @@ sam = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
@@ -53,6 +58,7 @@ sam = {
 
 - Google IT Support Professional
 - Career Essentials in GitHub Professional Certificate
+- *Ongoing* ISC2 CC Candidate (Certified in Cybersecurity) 
 
 ---
 
