@@ -16,11 +16,11 @@ sam = {
 
 ### 🛠️ Projects
 
-**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML got super annoying.
+**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** - GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML got super annoying.
 
-**[Blogsta](https://github.com/samuelaberenika/blogsta)** — A side podcast repo setup in which Blogsta-Cloner grew out of.
+**[Blogsta](https://github.com/samuelaberenika/blogsta)** - A side podcast repo setup in which Blogsta-Cloner grew out of.
 
-**[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** — Web development project.
+**[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** - Web development project.
 
 **PhishProof** - A phishing awareness training tool and SPA designed to help university students identify and respond to phishing emails. 
 
