@@ -16,9 +16,9 @@ sam = {
 
 ### 🛠️ Projects
 
-**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates a podcast RSS feed from a YAML file. Built it because hand-editing XML got old very fast.
+**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** — GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML got frustrating.
 
-**[Blogsta](https://github.com/samuelaberenika/blogsta)** — The original single-repo podcast setup that Blogsta-Cloner grew out of.
+**[Blogsta](https://github.com/samuelaberenika/blogsta)** — A side podcast repo setup in which Blogsta-Cloner grew out of.
 
 **[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** — Web development project.
 
