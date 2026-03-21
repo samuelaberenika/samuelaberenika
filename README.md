@@ -22,7 +22,7 @@ sam = {
 
 **[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** - A web platform for the Saint Vincent de Paul Society which contains donor, vendor and logistics dashboards with auth and a Python/SQLite backend.
 
-**PhishProof** - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance so all data is stored locally with no external transmission.
+**[PhishFree](https://github.com/samuelaberenika/phishfree)** - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance so all data is stored locally with no external transmission.
 
 ---
 
