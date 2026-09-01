@@ -4,10 +4,10 @@ I build things for the web, automate stuff I find annoying, cybersecurity-curiou
 
 ```python
 sam = {
-    "currently":  ["Building PhishProof", "Freelance IT consulting", "Studying for ISC2 CC"],
-    "languages":  ["Python", "JavaScript", "Java", "HTML/CSS"],
-    "tools":      ["Git", "Figma", "FlutterFlow", "Adobe Creative Suite"],
-    "cybersec":   ["ISC2 CC (in progress)", "TryHackMe SEC0 & SEC1"],
+    "currently":   ["Building PhishProof", "Independent client projects", "Studying Computer Science (Cybersecurity) @ Plymouth"],
+    "languages":   ["Python", "TypeScript", "JavaScript", "Java", "HTML/CSS"],
+    "tools":       ["Git", "Docker", "Linux", "Figma", "FlutterFlow", "Adobe Creative Suite"],
+    "cybersec":    ["AWS Certified Cloud Practitioner", "OWASP Awareness", "GDPR-compliant app design"],
     "looking for": ["internships", "open-source collabs", "cybersecurity projects"],
 }
 ```
@@ -20,7 +20,7 @@ sam = {
 
 **[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** - GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML's got super annoying.
 
-**[PhishFree](https://github.com/samuelaberenika/phishfree)** - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance so all data is stored locally with no external transmission.
+**[PhishFree](https://github.com/samuelaberenika/phishfree)** - A phishing awareness training tool that simulates a realistic corporate email environment across four attack categories (Corporate, Bank & Finance, Social Media, Academic) and three difficulty tiers. Built as a Single Page Application with full GDPR compliance, all data stored locally via LocalStorage with no external transmission.
 
 ---
 
@@ -28,9 +28,12 @@ sam = {
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
@@ -44,7 +47,6 @@ sam = {
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=samuelaberenika&show_icons=true&theme=tokyonight&hide_border=true" alt="Sam's GitHub stats" />
 </p>
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelaberenika&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
@@ -53,10 +55,9 @@ sam = {
 
 ### 📜 Certifications
 
-- AWS Cloud Practitioner
+- AWS Certified Cloud Practitioner
 - Google IT Support Professional
 - Career Essentials in GitHub Professional Certificate
-
 
 ---
 
