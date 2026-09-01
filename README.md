@@ -20,8 +20,6 @@ sam = {
 
 **[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** - GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML's got super annoying.
 
-**[MealsonWheels](https://github.com/samuelaberenika/mealsonwheels)** - A web platform for the Saint Vincent de Paul Society which contains donor, vendor and logistics dashboards with auth and a Python/SQLite backend.
-
 **[PhishFree](https://github.com/samuelaberenika/phishfree)** - A phishing awareness training tool designed to help university students identify and respond to phishing emails. Built as a Single Page Application with full GDPR compliance so all data is stored locally with no external transmission.
 
 ---
@@ -55,9 +53,10 @@ sam = {
 
 ### 📜 Certifications
 
+- AWS Cloud Practitioner
 - Google IT Support Professional
 - Career Essentials in GitHub Professional Certificate
-- *Ongoing* ISC2 CC Candidate (Certified in Cybersecurity) 
+
 
 ---
 
