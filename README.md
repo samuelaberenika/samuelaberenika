@@ -26,8 +26,8 @@ A reusable GitHub Action that generates podcast RSS feeds from YAML metadata. Bu
 
 ## Certifications
 
-`- AWS Certified Cloud Practitioner
-`- Career Essentials in GitHub Professional Certificate
+* AWS Certified Cloud Practitioner
+* Career Essentials in GitHub Professional Certificate
 
 
 
