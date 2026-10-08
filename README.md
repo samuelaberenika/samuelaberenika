@@ -16,7 +16,6 @@ I enjoy building useful software, automating repetitive tasks, and understanding
 
 ## Projects
 ---
-
 ### [PhishFree](https://github.com/samuelaberenika/phishfree)
 A browser-based phishing awareness training app with realistic email scenarios, multiple categories and difficulty levels, and immediate learning feedback. Scores are stored locally in the browser.
 
@@ -26,15 +25,14 @@ A full-stack registration platform built for the Saint Vincent de Paul Society. 
 ### [Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)
 A reusable GitHub Action that generates podcast RSS feeds from YAML metadata. Built with Python and GitHub Actions to automate feed updates without manually editing XML.
 
----
-
 ## Certifications
 ---
 `- AWS Certified Cloud Practitioner
 `- Career Essentials in GitHub Professional Certificate
 
----
+
 
 ## Connect
+---
 
 [LinkedIn](https://linkedin.com/in/samuelaberenika) · [GitHub](https://github.com/samuelaberenika)
