@@ -8,6 +8,14 @@ I enjoy building useful software, automating repetitive tasks, and understanding
 
 ---
 
+## Tech Stack
+
+* **Core:** Python, Django, Vue.js, PostgreSQL, Git, Docker, AWS
+* **Languages & web** Javascript, Typescript, HTML/CSS
+* **Cloud & workflow:** Git, GitHub Actions, Linux
+* **Other Tools:** Linux , SQLite
+  
+---
 ## Projects
 
 ### [PhishFree](https://github.com/samuelaberenika/phishfree)
@@ -18,15 +26,6 @@ A full-stack registration platform built for the Saint Vincent de Paul Society. 
 
 ### [Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)
 A reusable GitHub Action that generates podcast RSS feeds from YAML metadata. Built with Python and GitHub Actions to automate feed updates without manually editing XML.
-
----
-
-## Tech Stack
-
-`- **Core:** Python, Django, Vue.js, PostgreSQL, Git, Docker & AWS
-`- **Also used in projects:** Typescript, HTML/CSS, SQLite & Github Actions
-`- **Cloud:** AWS
-`- **Other Tools:** Linux , SQLite
 
 ---
 
