@@ -5,7 +5,6 @@ I'm a second-year Computer Science student at the University of Plymouth, focuse
 I enjoy building useful software, automating repetitive tasks, and understanding how systems work from end to end. I'm currently developing my skills in Python, AWS, and Docker.
 
 ---
-
 ## Tech Stack
 
 * **Core:** Python, Django, Vue.js, PostgreSQL, Git, Docker, AWS
