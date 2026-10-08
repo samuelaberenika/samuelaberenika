@@ -1,4 +1,4 @@
-# Hey, I'm Sam 👋
+# Hey, I'm Samuel 👋
 
 I'm a second-year Computer Science student at the University of Plymouth, focused on software and cloud engineering.
 
