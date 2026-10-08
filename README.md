@@ -10,30 +10,30 @@ I enjoy building useful software, automating repetitive tasks, and understanding
 
 ## Projects
 
+### [PhishFree](https://github.com/samuelaberenika/phishfree)
+A browser-based phishing awareness training app with realistic email scenarios, multiple categories and difficulty levels, and immediate learning feedback. Scores are stored locally in the browser.
+
 ### [MealsOnWheels](https://github.com/samuelaberenika/mealsonwheels)
 A full-stack registration platform built for the Saint Vincent de Paul Society. It digitises beneficiary and partner registration, application review, and approval workflows that were previously handled on paper.
 
 ### [Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)
 A reusable GitHub Action that generates podcast RSS feeds from YAML metadata. Built with Python and GitHub Actions to automate feed updates without manually editing XML.
 
-### [PhishFree](https://github.com/samuelaberenika/phishfree)
-A browser-based phishing awareness training app with realistic email scenarios, multiple categories and difficulty levels, and immediate learning feedback. Scores are stored locally in the browser.
-
 ---
 
-## Tools & Technologies
+## Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
-- **Tools:** Git, GitHub Actions, Docker, Linux, SQLite
-- **Cloud:** AWS
+`- **Core:** Python, Django, Vue.js, PostgreSQL, Git, Docker & AWS
+`- **Also used in projects:** Typescript, HTML/CSS, SQLite & Github Actions
+`- **Cloud:** AWS
+`- **Other Tools:** Linux , SQLite
 
 ---
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner
-- Google IT Support Professional
-- Career Essentials in GitHub Professional Certificate
+`- AWS Certified Cloud Practitioner
+`- Career Essentials in GitHub Professional Certificate
 
 ---
 
