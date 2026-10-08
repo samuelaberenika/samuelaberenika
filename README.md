@@ -1,59 +1,35 @@
-<h1>Hey, I'm Sam 👋</h1>
+# Hey, I'm Sam 👋
 
-I build things for the web, automate stuff I find annoying, cybersecurity-curious, and probably building things that should've existed already. Still figuring it all out but that's the point :)
+I'm a second-year Computer Science student at the University of Plymouth, focused on software and cloud engineering.
 
-```python
-sam = {
-    "currently":   ["Building PhishProof", "Independent client projects", "Studying Computer Science (Cybersecurity) @ Plymouth"],
-    "languages":   ["Python", "TypeScript", "JavaScript", "Java", "HTML/CSS"],
-    "tools":       ["Git", "Docker", "Linux", "Figma", "FlutterFlow", "Adobe Creative Suite"],
-    "cybersec":    ["AWS Certified Cloud Practitioner", "OWASP Awareness", "GDPR-compliant app design"],
-    "looking for": ["internships", "open-source collabs", "cybersecurity projects"],
-}
-```
+I enjoy building useful software, automating repetitive tasks, and understanding how systems work from end to end. I'm currently developing my skills in Python, AWS, and Docker.
+
+> You can't build what you can't explain.
 
 ---
 
-### 🛠️ Projects
+## Projects
 
-**[Blogsta](https://github.com/samuelaberenika/blogsta)** - A side podcast repo setup in which Blogsta-Cloner grew out of.
+### [MealsOnWheels](https://github.com/samuelaberenika/mealsonwheels)
+A full-stack registration platform built for the Saint Vincent de Paul Society. It digitises beneficiary and partner registration, application review, and approval workflows that were previously handled on paper.
 
-**[Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)** - GitHub Action that generates podcast RSS feeds from YAML files. Built because editing XML's got super annoying.
+### [Blogsta-Cloner](https://github.com/samuelaberenika/Blogsta-Cloner)
+A reusable GitHub Action that generates podcast RSS feeds from YAML metadata. Built with Python and GitHub Actions to automate feed updates without manually editing XML.
 
-**[PhishFree](https://github.com/samuelaberenika/phishfree)** - A phishing awareness training tool that simulates a realistic corporate email environment across four attack categories (Corporate, Bank & Finance, Social Media, Academic) and three difficulty tiers. Built as a Single Page Application with full GDPR compliance, all data stored locally via LocalStorage with no external transmission.
-
----
-
-### 🧰 Tools & Languages
-
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
+### [PhishFree](https://github.com/samuelaberenika/phishfree)
+A browser-based phishing awareness training app with realistic email scenarios, multiple categories and difficulty levels, and immediate learning feedback. Scores are stored locally in the browser.
 
 ---
 
-### 📊 Stats
+## Tools & Technologies
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelaberenika&show_icons=true&theme=tokyonight&hide_border=true" alt="Sam's GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelaberenika&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- **Languages:** Python, JavaScript, TypeScript, Java, HTML, CSS
+- **Tools:** Git, GitHub Actions, Docker, Linux, SQLite
+- **Cloud:** AWS
 
 ---
 
-### 📜 Certifications
+## Certifications
 
 - AWS Certified Cloud Practitioner
 - Google IT Support Professional
@@ -61,8 +37,6 @@ sam = {
 
 ---
 
-### 🤝 Connect
+## Connect
 
-<a href="https://linkedin.com/in/samuelaberenika" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
-</a>
+[LinkedIn](https://linkedin.com/in/samuelaberenika) · [GitHub](https://github.com/samuelaberenika)
