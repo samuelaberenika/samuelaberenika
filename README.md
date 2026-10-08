@@ -2,7 +2,7 @@
 
 I'm a second-year Computer Science student at the University of Plymouth, focused on software and cloud engineering.
 
-I enjoy building useful software, automating repetitive tasks, and understanding how systems work from end to end. I'm currently developing my skills in Python, AWS, and Docker.
+I enjoy building useful software, automating repetitive tasks, and understanding how systems work from end to end.
 
 
 ## Tech Stack
